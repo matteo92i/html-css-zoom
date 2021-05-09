@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    height:100vh;
+    flex-direction: column;
+}
+main{
+    display: flex;
+
+    flex-grow: 1;
+    background-color: black;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+    
+}
+.imgZ{
+    width: 150px;
+    height: 100px;
+    background-image: url(../imgZ/DR.\ iWup.png);
+    background-size: cover;
+    background-position: center;
+    margin: 40px 15px;
+   
+}
+
+
+
+    
+
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+
